@@ -18,7 +18,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Owais-Waheed&show_icons=true&locale=en&layout=compact&exclude_repo=Data-Science-hws" alt="Owais-Waheed" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Owais-Waheed&show_icons=true&locale=en" alt="Owais-Waheed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Owais-Waheed&" alt="Owais-Waheed" /></p>
 
