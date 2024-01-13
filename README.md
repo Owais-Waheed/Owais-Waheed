@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Owais-Waheed&" alt="Owais-Waheed" /></p>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Owais-Waheed)
+<!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=Owais-Waheed) -->
