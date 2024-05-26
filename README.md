@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Owais-Waheed&show_icons=true&locale=en&layout=compact&exclude_repo=Data-Science-hws" alt="Owais-Waheed" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Owais-Waheed&show_icons=true&locale=en&layout=compact" alt="Owais-Waheed" />
 </p>
 
 
